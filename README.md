@@ -23,8 +23,13 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0605-can-place-flowers) |
+| [1833-find-the-highest-altitude](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
