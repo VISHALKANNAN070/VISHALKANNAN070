@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0605-can-place-flowers) |
+| [1319-unique-number-of-occurrences](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1319-unique-number-of-occurrences) |
 | [1833-find-the-highest-altitude](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1833-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
