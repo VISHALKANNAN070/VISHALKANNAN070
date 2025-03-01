@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [1230-maximum-of-absolute-value-expression](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1230-maximum-of-absolute-value-expression) |
 | [2032-largest-odd-number-in-string](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [1230-maximum-of-absolute-value-expression](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1230-maximum-of-absolute-value-expression) |
 | [2551-apply-operations-to-an-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
