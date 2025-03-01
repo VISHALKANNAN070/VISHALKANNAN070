@@ -44,6 +44,7 @@
 | ------- |
 | [1230-maximum-of-absolute-value-expression](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1230-maximum-of-absolute-value-expression) |
 | [2551-apply-operations-to-an-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2551-apply-operations-to-an-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
