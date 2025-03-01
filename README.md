@@ -38,4 +38,16 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2032-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2551-apply-operations-to-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
