@@ -11,7 +11,6 @@ class Solution {
             prev = prev.next;
         }
         ListNode curr = prev.next;
-        ListNode next = null;
         for (int i = 0; i < right - left; i++) {
             ListNode temp = curr.next;
             curr.next = temp.next;
