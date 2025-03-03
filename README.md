@@ -25,13 +25,27 @@
 ## Array
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
