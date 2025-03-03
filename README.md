@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
