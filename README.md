@@ -50,6 +50,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+| [1765-merge-in-between-linked-lists](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1765-merge-in-between-linked-lists) |
 ## Design
 |  |
 | ------- |
