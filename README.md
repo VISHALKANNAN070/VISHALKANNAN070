@@ -71,11 +71,13 @@
 | ------- |
 | [0143-reorder-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0342-power-of-four) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Bit Manipulation
