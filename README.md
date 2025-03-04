@@ -36,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0143-reorder-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -43,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0237-delete-node-in-a-linked-list) |
