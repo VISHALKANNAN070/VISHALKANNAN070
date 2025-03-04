@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0231-power-of-two) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
