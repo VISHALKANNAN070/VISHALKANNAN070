@@ -1,7 +1,7 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int len=grid.length;
-        int[] arr=new int[len*len+1];
+        int[] arr=new int[(len*len)+1];
         for(int[] row:grid){
             for(int col:row){
                 arr[col]++;
