@@ -28,11 +28,13 @@
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +100,8 @@
 |  |
 | ------- |
 | [1664-find-users-with-valid-e-mails](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1664-find-users-with-valid-e-mails) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
