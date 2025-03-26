@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/0817-design-hashmap) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
