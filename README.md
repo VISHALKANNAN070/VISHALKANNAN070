@@ -30,6 +30,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/VISHALKANNAN070/VISHALKANNAN070/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
