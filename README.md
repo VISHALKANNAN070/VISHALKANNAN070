@@ -30,7 +30,7 @@
 ## 📫 Connect with Me  
 - 📧 Email: **vishalkannan070@gmail.com**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/vishal-kannan-070in/]
-- 🌐 Portfolio: [https://portfolio-rouge-eta-12.vercel.app/]
+- 🌐 Portfolio: [https://portfolio-opal-one-77.vercel.app/]
 
 ---
 
