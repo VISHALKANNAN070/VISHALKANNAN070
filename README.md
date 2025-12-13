@@ -29,8 +29,8 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: **vishalkannan070@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-kannan-070in/)]
-- 🌐 [Portfolio](https://vishalkannan070.github.io/Portfolio/)]
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-kannan-070in/)
+- 🌐 [Portfolio](https://vishalkannan070.github.io/Portfolio/)
 
 ---
 
