@@ -22,8 +22,8 @@
 
 ## 📌 Projects  
 - 📝 **NotesApp** – Simple and effective note-taking application with Google OAuth.  
+- 📚 **SyncSpace** – A second brain to manage personal projects with ease. 
 - 🎉 **Spark'25** – Website for the International Conference conducted at our College.  
-- 📚 **Library Management System** – Manage books, users, and borrowing system efficiently. 
 
 ---
 
