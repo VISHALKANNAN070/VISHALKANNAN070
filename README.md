@@ -1,37 +1,23 @@
-# 👋 Hi, I'm Vishal Kannan
-
-🎓 Engineering Student | 🌐 Aspiring Web Developer | 🚀 MERN Stack Learner  
+# Vishal Kannan
 
 ---
 
-## 🌟 About Me  
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 💻 Skilled in **C, Java, MySQL**, and tools like **Canva** & **Figma**  
-- 📘 Interested in **Web Development** and building practical, user-friendly applications  
-- ⚡ Always curious to explore new technologies and improve my skills  
+## About
+* Learning **MERN Stack** (MongoDB, Express, React, Node.js)
+* Experience with **C, Java, MySQL**
+* Interested in building practical, user-focused web applications
+* Exploring new technologies and improving continuously
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: C, Java, JavaScript  
-- **Web**: HTML, CSS, React.js, Node.js, Express.js  
-- **Database**: MySQL, MongoDB  
-- **Tools & Design**: Git, Canva, Figma  
+## Projects
+* **NotesApp** — Note-taking app with Google OAuth
+* **SyncSpace** — Personal project management
+* **Spark'25** — International conference website
 
 ---
 
-## 📌 Projects  
-- 📝 **NotesApp** – Simple and effective note-taking application with Google OAuth.  
-- 📚 **SyncSpace** – A second brain to manage personal projects with ease. 
-- 🎉 **Spark'25** – Website for the International Conference conducted at our College.  
-
----
-
-## 📫 Connect with Me  
-- 📧 Email: **vishalkannan070@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-kannan-070in/)
-- 🌐 [Portfolio](https://vishalkannan070.github.io/Portfolio/)
-
----
-
-⭐️ *“Building projects, one step closer to becoming a full-stack developer.”*  
+## Contact
+Email: [vishalkannan070@gmail.com](mailto:vishalkannan070@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/vishal-kannan-070in/](https://www.linkedin.com/in/vishal-kannan-070in/)
+Portfolio: [https://vishalkannan.is-a.dev](https://vishalkannan.is-a.dev)
