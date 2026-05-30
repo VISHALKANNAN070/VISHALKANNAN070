@@ -1,19 +1,14 @@
-# Vishal Kannan
+ Hi, I'm Vishal.
+
+  I'm an engineering graduate who enjoys programming, reading, and exploring new things. I like solving problems, listening to music and following my curiosity wherever it leads.
+
 
 ---
 
-## About
-* Learning **MERN Stack** (MongoDB, Express, React, Node.js)
-* Experience with **C, Java, MySQL**
-* Interested in building practical, user-focused web applications
-* Exploring new technologies and improving continuously
-
----
-
-## Projects
-* **NotesApp** — Note-taking app with Google OAuth
-* **SyncSpace** — Personal project management
-* **Spark'25** — International conference website
+## Recent Projects
+* **EasyMD** — Convert projects project descriptions into clean README.md files
+* **LinuxShell** — Built simple C shell for learning purposes
+* **ChatTUI** — A Simple TCP/IP server and client built in C for learning purposes. 
 
 ---
 
