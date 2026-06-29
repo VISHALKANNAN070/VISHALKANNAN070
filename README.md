@@ -1,13 +1,6 @@
 **Hi, I'm Vishal.**
 
-*I'm an engineering graduate who enjoys programming, reading, and exploring new things. I like solving problems, listening to music and following my curiosity wherever it leads.*
-
----
-
-## Recent Projects
-- **EasyMD** — Convert project descriptions into clean README.md files
-- **LinuxShell** — Built a simple C shell for learning purposes
-- **ChatTUI** — A simple TCP/IP server and client built in C for learning purposes
+_Based in Tamil Nadu, India. I transitioned into software development during my EEE degree and have since been building full-stack web applications using modern web technologies. I mainly work with React, Node, Express, MongoDB, and PostgreSQL._
 
 ---
 
